@@ -1,0 +1,37 @@
+.from-section{
+text-align: center;
+color: rgba(13, 0, 255, 0.783);
+background-color: gray;
+padding: 100px;
+border-radius: 20px;
+background-repeat: no-repeat;
+background-image: url(
+    https://scontent.fdac20-1.fna.fbcdn.net/v/t39.30808-6/441510089_1001792014649616_7718146404087943827_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeH0V-nzc-SyI_wC3i_V_lPAsJJKLoryevKwkkouivJ68t3BbfLyqzDDdg-FkWFCYPbpH1Q_tIrGqp0miylOurzt&_nc_ohc=pEulvWDJhWsQ7kNvgFfpfcx&_nc_zt=23&_nc_ht=scontent.fdac20-1.fna&_nc_gid=AZ_feHC83uR2fjlcgISMzF9&oh=00_AYB75Jmq4m9eMMUScv-oYbxv2ipkFPpB7CS7FB6sWgIgsA&oe=6744DADE
+
+);
+}
+label{
+    display: block;
+    margin-top: 10px;
+}
+label > input{
+    color: blue;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    padding: 2px;
+    border: none;
+    margin-left: 10px;
+}
+button{
+    margin-top: 10px;
+    width: 120px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+.reset{
+    background-color: brown;
+    text-decoration: none;
+}
+.submit{
+    background-color: rgb(0, 255, 21);
+}
